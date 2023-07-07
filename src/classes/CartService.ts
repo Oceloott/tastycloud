@@ -1,4 +1,4 @@
-import CartType from "../types/Cart";
+import {CartType} from "../types/Cart";
 
 export default class CartService {
     private cartItems: CartType[];
