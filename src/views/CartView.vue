@@ -40,7 +40,7 @@ export default defineComponent({
     };
   },
   computed: {
-    cartItems(): [] {
+    cartItems(): CartType[] {
       return this.cartService.getCartItems();
     },
     
