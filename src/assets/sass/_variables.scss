@@ -1,0 +1,21 @@
+:root {
+    --color-main: #1c4d57;
+    --color-main-lighter: #E4F3F6;
+    --color-main-darker: #1c3e44;
+    --color-grey: #919191;
+    --color-white: white;
+}
+body{
+    font-family: "Roboto";
+
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('@/assets/fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('@/assets/fonts/Roboto-Regular.ttf');
+}

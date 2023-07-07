@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Tiramisu",
+        "category": "dessert",
+        "price": 5,
+        "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has b"
+    },
+    {
+        "id": 2,
+        "name": "Tarte",
+        "category": "plats",
+        "price": 4,
+        "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has b"
+    },
+    {
+        "id": 3,
+        "name": "Gateau coco",
+        "category": "plats",
+        "price": 8,
+        "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has b"
+    },
+    {
+        "id": 4,
+        "name": "Tiramisu",
+        "category": "dessert",
+        "price": 8,
+        "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has b"
+    },
+    {
+        "id": 5,
+        "name": "Tiramisu",
+        "category": "dessert",
+        "price": 5,
+        "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has b"
+    },
+    {
+        "id": 6,
+        "name": "Tiramisu",
+        "category": "dessert",
+        "price": 5,
+        "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has b"
+    }
+]
