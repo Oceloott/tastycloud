@@ -25,7 +25,7 @@
 import { defineComponent } from "vue";
 import Card from "@/components/Card.vue";
 import TitleComponent from "@/components/Title.vue";
-import CartService from "../classes/CartService";
+import CartService from "@/classes/CartService";
 
 
 export default defineComponent({

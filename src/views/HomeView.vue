@@ -24,9 +24,9 @@
 
 <script lang="ts">
 import { defineComponent, ref, computed, Ref } from "vue";
-import ProductsType from "../types/Products";
+import ProductsType from "@/types/Products";
 import Card from "@/components/Card.vue";
-import ProductService from "../classes/ProductService"
+import ProductService from "@/classes/ProductService"
 
 interface CategoryItem {
   value: string;

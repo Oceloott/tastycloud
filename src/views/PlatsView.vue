@@ -17,7 +17,7 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import Card from "@/components/Card.vue";
-import ProductService from "../classes/ProductService"
+import ProductService from "@/classes/ProductService"
 import TitleComponent from "@/components/Title.vue";
 
 

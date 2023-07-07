@@ -35,7 +35,7 @@
   
 <script lang="ts">
 import { defineComponent } from "vue";
-import CartService from "../classes/CartService";
+import CartService from "@/classes/CartService";
 
 export default defineComponent({
   name: "CardComponents",
